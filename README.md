@@ -3,8 +3,8 @@
 
 
 # Table of Content
-[Tutor](#tutor)
-[Mentors](#mentors)
+* [Tutor](#tutor)
+* [Mentors](#mentors)
 
 
 ## Tutor
