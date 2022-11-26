@@ -48,7 +48,7 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
 <table >
   <tr>
     <td width="220px"><img src="/imgs/reduced_image.jpg" alt="Bishal Kharal" width="200" height="280" /></td>
-   
+    <td><h3>Who is <a href="https://github.com/kbshal">Bishal</a>, you may ask?</h3> <br>
 Dedicated to MLOps and cloud computing, Bishal is an experienced data scientist. He is a former data scientist at Reduct Nepal, and he is currently the president of the Data Research Council For Students, a nonprofit organization that promotes data literacy.</td>
   </tr>
 </table>
