@@ -1,10 +1,35 @@
 # 30-Days of Python Bootcamp
-> It is a 30 days of hands-on python bootcamp organized by [Together We Learn](https://www.facebook.com/togetherwelearn22) and [Data Research Council For Student](https://www.facebook.com/profile.php?id=100077228320202)
+> This is 30 days of hands-on python bootcamp organized by [Together We Learn](https://www.facebook.com/togetherwelearn22) and [Data Research Council For Students](https://www.facebook.com/profile.php?id=100077228320202)
 
 
 # Table of Content
+* [Week](#week)
 * [Tutor](#tutor)
 * [Mentors](#mentors)
+
+# Week
+
+## [Week 1] (https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201)
+
+- [Lectures](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201/lectures)
+- [Assignments](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201/Assignments)
+
+
+## [Week 2](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%202)
+
+- [Lectures](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%202/lectures)
+- [Assignments](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%202/Assignments)
+  
+  
+## [Week 3](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%203)
+
+- [Lectures](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%203/lectures)
+- [Assignments](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%203/Assignments)
+
+
+## [Week 4](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%204)
+
+- [Final Projects](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%204/FInal%20Project)
 
 
 ## Tutor
