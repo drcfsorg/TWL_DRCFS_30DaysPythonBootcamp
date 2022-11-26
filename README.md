@@ -13,7 +13,7 @@
   <tr>
     <td width="220px"><img src="/imgs/Samrid Pandit.jpg" alt="Samrid Pandit" width="200" height="280" /></td>
     <td><h3>Who is <a href="https://github.com/CaffeineDuck">Samrid</a>, you may ask?</h3> <br>
-Samrid is a backend developer who has developed <br> dependable serverside applications by utilizing tired and tested<br> standards and tools. He currently works as a<br> backend engineer at Zebec, worked previously at Clamphook<br> and is also an active participant in Nepali Tech Space.</td>
+Samrid is a backend developer who has developed <br> dependable serverside applications by utilizing tired and tested standards and tools. He currently works as a backend engineer at Zebec, worked previously at Clamphook and is also an active participant in Nepali Tech Space.</td>
   </tr>
 </table>
 
