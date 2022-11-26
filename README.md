@@ -9,7 +9,7 @@
 
 # Week
 
-## [Week 1] (https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201)
+## [Week 1](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201)
 
 - [Lectures](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201/lectures)
 - [Assignments](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201/Assignments)
