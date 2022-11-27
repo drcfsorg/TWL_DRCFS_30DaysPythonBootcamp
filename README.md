@@ -42,3 +42,10 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
   </tr>
 </table>
 
+## Mentors
+<table >
+  <tr>
+    -  <a href="https://github.com/kbshal">Bishal Kharal</a> <td width="220px"><img src="/imgs/reduced_image.jpg" alt="Bishal Kharal" width="90" height="130" /></td>
+ 
+  </tr>
+</table>
