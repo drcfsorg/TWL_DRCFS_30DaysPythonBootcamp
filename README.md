@@ -42,5 +42,3 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
   </tr>
 </table>
 
-
-## Mentors
