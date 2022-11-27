@@ -49,3 +49,25 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
  
   </tr>
 </table>
+
+## Community Partners
+
+We would like to thank the community partners who made this bootcamp possible
+
+<div align="center">
+  <a href="https://www.facebook.com/askbuddie/">
+    <img height="100" src="https://github.com/regmi-saugat/TWL_DRCFS_30DaysPythonBootcamp/blob/main/imgs/ask_buddie.png">
+  </a>
+
+  <a href="https://www.facebook.com/everydaykarmaa/">
+    <img height="100" src="https://github.com/regmi-saugat/TWL_DRCFS_30DaysPythonBootcamp/blob/main/imgs/everyday_karma.png">
+  </a>
+
+  <a href="https://www.facebook.com/csitanpokhara/">
+    <img height="100" src="https://github.com/regmi-saugat/TWL_DRCFS_30DaysPythonBootcamp/blob/main/imgs/csit_association_pokhara.png">
+  </a>
+
+  <a href="https://www.facebook.com/DevCommunityNepal/">
+    <img height="100" src="https://github.com/regmi-saugat/TWL_DRCFS_30DaysPythonBootcamp/blob/main/imgs/devcommunity_nepal.png">
+  </a>
+</div>
