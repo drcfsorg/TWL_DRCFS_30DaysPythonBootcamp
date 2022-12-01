@@ -1,18 +1,20 @@
 # 30-Days of Python Bootcamp
 > This is 30 days of hands-on Python Bootcamp organized by [Together We Learn](https://www.facebook.com/togetherwelearn22) and [Data Research Council For Students](https://www.facebook.com/profile.php?id=100077228320202)
 
-## Join DRCFS Discord Server: 
+Join <b> DRCFS Discord Server </b> by clicking on the Discord badge.
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rpj5pHa5ec)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Rpj5pHa5ec) &nbsp;
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<b>Official Python Website</b>:
+
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org) &nbsp;
 
 
 # Table of Content
 * [Week](#week)
 * [Tutor](#tutor)
 * [Mentors](#mentors)
-* [Resource Materials And References](#resources)
+* [Resource Materials And References](#resource-materials-and-references) &nbsp;
 
 # Week
 
@@ -63,12 +65,13 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
 
 ## Resource Materials And References
 
+- [Python Official Documentation](https://docs.python.org/)
+
 - [Automate The Boring Stuff With Python Book](https://github.com/dhakalnirajan/TWL-DRCFS-30-Days-Python-Bootcamp/blob/main/Resources%20Materials%20And%20References/Automate%20The%20Boring%20Stuff%20With%20Python.pdf)
 - [Head First Python Book](https://github.com/dhakalnirajan/TWL-DRCFS-30-Days-Python-Bootcamp/blob/main/Resources%20Materials%20And%20References/Head%20First%20Python.pdf)
 - [No Starch Python Book](https://github.com/dhakalnirajan/TWL-DRCFS-30-Days-Python-Bootcamp/blob/main/Resources%20Materials%20And%20References/No%20Starch%20Python.pdf)
 - [Python Complete Handbook](https://github.com/dhakalnirajan/TWL-DRCFS-30-Days-Python-Bootcamp/blob/main/Resources%20Materials%20And%20References/Python%20Complete%20Handbook.pdf)
 - [Python Statements](https://github.com/dhakalnirajan/TWL-DRCFS-30-Days-Python-Bootcamp/blob/main/Resources%20Materials%20And%20References/Python%20Statements.pdf)
-
 
 --- 
 
