@@ -51,7 +51,7 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
 <a href="https://github.com/regmi-saugat" target="_blank" rel="noreferrer"> <img src="imgs/saugat regmi.jpg" width="161" height="185"/> </a>
 <a href="https://www.facebook.com/ranjeet.ghimire.35" target="_blank" rel="noreferrer"> <img src="imgs/ranjeet ghimire.jpg" width="161" height="185"/> </a>
 <a href="https://www.facebook.com/profile.php?id=100007249965051" target="_blank" rel="noreferrer"> <img src="imgs/utshav acharya.jpg" width="161" height="185"/> </a>
-<br>From Left: Ashim Dahal | Bishal Kharal | Anuj Khadka | Hari Paudel | Saugat Regmi | Ranjeet Ghimire  
+<br>From Left: Ashim Dahal | Bishal Kharal | Anuj Khadka | Hari Paudel | Saugat Regmi | Ranjeet Ghimire | Utsav Acharya 
 </div> 
 
 
