@@ -11,24 +11,11 @@ Join <b> DRCFS Discord Server </b> by clicking on the Discord badge.
 
 
 # Table of Content
-* [Initialization](#initialize)
 * [Week](#week)
 * [Tutor](#tutor)
 * [Mentors](#mentors)
 * [Resource Materials And References](#resource-materials-and-references) &nbsp;
 
-# Initialize
-```
-git clone https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git          //Making a copy of the repo in local device(PC)
-git init                                                                          //Initialize git in the git folder at local device
-git status                                                                        //Show file status
-git add .                                                                         //Add all the file 
-git commit -m "Commit Message"                                                    //Commit the files
-git remote add origin https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git
-git push -u origin                                                                //Push(Send) it to the repo
-git pull                                                                          //Extract the contents from the repo to local device
-
-```
 
 # Week
 
