@@ -11,13 +11,13 @@ Join <b> DRCFS Discord Server </b> by clicking on the Discord badge.
 
 
 # Table of Content
-* Initialization(#initialize)
+* [Initialization](#initialize)
 * [Week](#week)
 * [Tutor](#tutor)
 * [Mentors](#mentors)
 * [Resource Materials And References](#resource-materials-and-references) &nbsp;
 
-# Initilize
+# Initialize
 ```
 git clone https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git          //Making a copy of the repo in local device(PC)
 git init                                                                          //Initialize git in the git folder at local device
@@ -68,7 +68,7 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
 ## Mentors
 <div align="center">
 <a href="https://github.com/ashimdahal" target="_blank" rel="noreferrer"> <img src="/imgs/ashim dahal.jpeg" width="161" height="185"/> </a>
-<a href="https://github.com/kbshal" target="_blank" rel="noreferrer"> <img src="/imgs/reduced_image.jpg" width="161" height="185"/> </a 
+<a href="https://github.com/kbshal" target="_blank" rel="noreferrer"> <img src="/imgs/reduced_image.jpg" width="161" height="185"/> </a> 
 <a href="https://github.com/Anuj-Khadka" target="_blank" rel="noreferrer"> <img src="/imgs/Anuj Khadka.jpg" width="161" height="185"/> </a>              
 <a href="https://github.com/dev-hari" target="_blank" rel="noreferrer"> <img src="imgs/hari_paudel.JPG" width="161" height="185"/> </a>  
 <a href="https://github.com/regmi-saugat" target="_blank" rel="noreferrer"> <img src="imgs/saugat regmi.jpg" width="161" height="185"/> </a>
