@@ -2,6 +2,9 @@
 This folder contains all assignments, lecture notes, codes and additional requirements for the first week.
 
 
+
+# Git Codes we will be using mainly throughout the session.
+
 ```
 git clone https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git          //Making a copy of the repo in local device(PC)
 git init                                                                          //Initialize git in the git folder at local device
@@ -12,3 +15,5 @@ git remote add origin https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp
 git push -u origin                                                                //Push(Send) it to the repo
 git pull                                                                          //Extract the contents from the repo to local device
 ```
+
+Git CheatSheet: https://education.github.com/git-cheat-sheet-education.pdf
