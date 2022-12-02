@@ -3,9 +3,22 @@
 
 
 # Table of Content
+* Initialization(#initialize)
 * [Week](#week)
 * [Tutor](#tutor)
 * [Mentors](#mentors)
+
+# Initilize
+```
+git clone https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git
+git init
+git status
+git add .
+git commit -m "Commit Message"
+git remote add origin https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git
+git push -u origin
+
+```
 
 # Week
 
