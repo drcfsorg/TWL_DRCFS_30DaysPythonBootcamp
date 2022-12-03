@@ -17,3 +17,6 @@ git pull                                                                        
 ```
 
 Git CheatSheet: https://education.github.com/git-cheat-sheet-education.pdf
+
+How to fork this branch?
+Watch video [here](https://drive.google.com/file/d/11KUDwNvnsMb3o4b8CGNiNn8cuO4KxdDZ/view?usp=share_link)
