@@ -11,7 +11,7 @@ git init                                                                        
 git status                                                                        //Show file status
 git add .                                                                         //Add all the file 
 git commit -m "Commit Message"                                                    //Commit the files
-git remote add origin https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git
+git remote add origin https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp.git  //Connect your local git repo with a remote/online git repo.
 git push -u origin                                                                //Push(Send) it to the repo
 git pull                                                                          //Extract the contents from the repo to local device
 ```
