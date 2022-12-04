@@ -16,6 +16,7 @@ Join <b> DRCFS Discord Server </b> by clicking on the Discord badge.
 * [Mentors](#mentors)
 * [Resource Materials And References](#resource-materials-and-references) &nbsp;
 
+
 # Week
 
 ## [Week 1](https://github.com/drcfsorg/TWL_DRCFS_30DaysPythonBootcamp/tree/main/Week%201)
@@ -54,7 +55,7 @@ Samrid is a backend developer who has developed <br> dependable serverside appli
 ## Mentors
 <div align="center">
 <a href="https://github.com/ashimdahal" target="_blank" rel="noreferrer"> <img src="/imgs/ashim dahal.jpeg" width="161" height="185"/> </a>
-<a href="https://github.com/kbshal" target="_blank" rel="noreferrer"> <img src="/imgs/reduced_image.jpg" width="161" height="185"/> </a 
+<a href="https://github.com/kbshal" target="_blank" rel="noreferrer"> <img src="/imgs/reduced_image.jpg" width="161" height="185"/> </a> 
 <a href="https://github.com/Anuj-Khadka" target="_blank" rel="noreferrer"> <img src="/imgs/Anuj Khadka.jpg" width="161" height="185"/> </a>              
 <a href="https://github.com/dev-hari" target="_blank" rel="noreferrer"> <img src="imgs/hari_paudel.JPG" width="161" height="185"/> </a>  
 <a href="https://github.com/regmi-saugat" target="_blank" rel="noreferrer"> <img src="imgs/saugat regmi.jpg" width="161" height="185"/> </a>
