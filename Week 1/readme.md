@@ -16,12 +16,14 @@ git push -u origin                                                              
 git pull                                                                          //Extract the contents from the repo to local device
 ```
 
-Git CheatSheet: https://education.github.com/git-cheat-sheet-education.pdf
+- Git CheatSheet: https://education.github.com/git-cheat-sheet-education.pdf
 
 How to fork this branch?
+
 Watch video [here](https://drive.google.com/file/d/11KUDwNvnsMb3o4b8CGNiNn8cuO4KxdDZ/view?usp=share_link)
 
 
-Python basics from December 04. Watch video [here](https://drive.google.com/file/d/1NSCoz2YCRL-XRk_BRuahr9QzQDFTqlag/view?usp=sharing).
-PS: first few minutes of the video is muted due to human error, please fast forward until you hear Samrid.
-Python basics from December 05. Watch video [here](https://drive.google.com/file/d/1kgT1QjlZPrLVUixkpCrtaFX2X6Zr5_hP/view?usp=sharing).
+-Python basics from December 04. Watch video [here](https://drive.google.com/file/d/1NSCoz2YCRL-XRk_BRuahr9QzQDFTqlag/view?usp=sharing).
+>PS: first few minutes of the video is muted due to human error, please fast forward until you hear Samrid.
+-Python basics from December 05. Watch video [here](https://drive.google.com/file/d/1kgT1QjlZPrLVUixkpCrtaFX2X6Zr5_hP/view?usp=sharing).
+-Python basics from Deccember 06. Watch video [here](https://drive.google.com/file/d/16GQ0Yp75iiQE7KQa0wl4OzFI2XSD0jqE/view?usp=sharing).
