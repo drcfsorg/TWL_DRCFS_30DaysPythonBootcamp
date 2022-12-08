@@ -12,7 +12,7 @@ strength (POOR or Moderate or Strong).
 password. Then it will append the new username and password to the Input text file (Users-Pwds.txt).
 
 ## Write a short program that meets all of the following requirements.
-1. Present the user with the Title of your program and two menu options (Then select either option 1, 2 or 3).
+1. Present the user with the Title of your program and three menu options (Then select either option 1, 2 or 3).
 2. You are to create your own text descriptions for option 1, 2 and 3 to output to the user.
 3. If they select Option 1:
 4. Open an Input text file (Users-Pwds.txt) stored in the same directory as your Python file.
