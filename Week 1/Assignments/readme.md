@@ -18,3 +18,21 @@ This folder contains all assignments that you need to pass to go through the fir
   - Similarly, check the guess is greater than generated number and if it is greater print `Your guess is too high`
   - Check the guess is equal to generated number. If it become equal then terminate the loop entirely using `break` keyword
 7. The message should be printed for the player along with the number of attempts if they guessed the number correctly. Otherwise, the message should be printed along with the number if they could not guess the number.
+
+---
+
+## Write a python script to make Rock Paper Scissor Game 
+
+To play the rock, paper, scissor game, two players each choose one of three options: rock, paper, or scissors. If both players choose the same option, the game is a tie. Otherwise, the following rules apply:
+- Rock beats scissors (rock breaks scissors)
+- Scissors beats paper (scissors cuts paper)
+- Paper beats rock (paper covers rock)
+
+If player 1 chooses rock and player 2 chooses scissors, player 1 wins. If player 1 chooses paper and player 2 chooses rock, player 1 wins. And if player 1 chooses scissors and player 2 chooses paper, player 1 wins. The game continues until one player reaches a certain number of wins, at which point the game ends and that player is declared the winner.
+
+## Steps to be followed while creating rock, paper, scissor game:
+- Initialize the player's score and the number of times they have played. 
+- Then use while loop that continues until the player has played 5 times. 
+- Inside the loop, we ask the player to choose rock, paper, or scissors and generate the computer's move by randomly choosing one of the three options. 
+- We then use if-else statements to check for the different combinations of moves and determine a winner. 
+- If the player wins, their score is incremented by one. After the loop, we print the final score.
