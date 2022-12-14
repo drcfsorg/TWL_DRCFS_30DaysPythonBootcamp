@@ -1,12 +1,12 @@
 # Open the file in read-only mode
 pwd = open('passwords.txt','r')
 
-print(pwd)
+# print(pwd)
 
 # Read the contents of the file
 actual_file = pwd.read()
 # Print the contents
-print(actual_file)
+# print(actual_file)
 
 pwd.close()
 
@@ -38,7 +38,7 @@ pwd.close()
 # file = open("my_file.txt", "w")
 
 # # Write some text to the file
-# file.write("Hello, world!")
+# file.write("Hello !\n")
 
 # # Close the file
 # file.close()
@@ -71,7 +71,7 @@ pwd.close()
 # file = open("my_file.txt", "a")
 
 # # Append some text to the file
-# file.write("\nThis is an additional line.")
+# file.write("\nNihao.")
 
 # # Close the file
 # file.close()
@@ -100,13 +100,15 @@ pwd.close()
 # even if an error occurs during the operation.
 
 
-# Open the file in read-only mode using the `with` keyword
-with open("my_file.txt", "r") as file:
-    # Read the contents of the file
-    contents = file.read()
 
-    # Print the contents
-    print(contents)
+# Open the file in read-only mode using the `with` keyword
+# with open("passwords.txt", "r") as file:
+#     # Read the contents of the file
+#     contents = file.read()
+
+#     # Print the contents
+#     print(contents)
+
 
 # we use the with keyword to open the file in read-only mode. 
 # This creates a File object that is stored in the file variable. ith keyword to open the file in read-only mode. 
@@ -125,3 +127,22 @@ with open("my_file.txt", "r") as file:
 # it ensures that the file is properly closed and any resources used by the file are released, 
 # even if an error occurs during the operation. 
 # This helps prevent resource leaks and other issues that can arise from improperly closing files.
+
+
+username_pwd = open('passwords.txt','r').read()
+username_pwd = username_pwd.split()
+
+for uname_pwd in username_pwd:
+    username,password = uname_pwd.split(',')
+    
+
+
+
+
+
+
+
+
+
+
+# pwd.close()
