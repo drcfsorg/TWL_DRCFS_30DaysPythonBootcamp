@@ -1,0 +1,4 @@
+ashim,ashim,982
+hari,hari@hari.com,987
+anuj khadka,khadka@anuj.com,9800000000
+ashim,ashim,9800000000
