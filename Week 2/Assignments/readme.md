@@ -55,3 +55,6 @@ b. Between 8 to 10 characters in length.
 3. A STRONG Password is defined as:<br>
 a. Meets all 4 of the above items ( i – iv )<br>
 b. Greater than 10 characters in length.
+
+# Solution
+The solution to above problem will be provided in solutions.py after everyone submits their file.
