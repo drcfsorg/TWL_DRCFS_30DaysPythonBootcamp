@@ -1,5 +1,5 @@
 '''
-Password Checker in python by Anurag Budhathoki.
+Password Checker in python by Ashim Dahal.
 Dec 04, 2022.
 '''
 import os
@@ -280,7 +280,7 @@ def main():
             option2()
         elif inp ==3:
             print('-'*45)
-            print('Closing the program \nThis program was built by: Anurag Budhathoki')
+            print('Closing the program \nThis program was built by: Ashim Dahal')
             break
         else:
             print("Please choose a number between 1 and 3.")
