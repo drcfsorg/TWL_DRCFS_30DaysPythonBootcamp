@@ -398,3 +398,24 @@ walker,eidtoNflV%,Moderate password
 abigail,SClKP@+IRCE5,Strong password
 danny.284,QD&N,Weak password
 elijah,0v2x5yw2p,Weak password
+dulce535,IELyZR@shM,MODERATE
+dulce535,IELyZR@shM,MODERATE
+jacquelyn,ESVJTQ,<function rank at 0x000001E62078AE60>
+cesar256,w55au43wu,<function rank at 0x000001E62078AE60>
+olivia,YOOMQZ,<function rank at 0x000001E62078AE60>
+glenn330,KZHY_-N?#RQC,<function rank at 0x000001E62078AE60>
+richard,DIURZO,<function rank at 0x000001E62078AE60>
+douglas,dHU+fgnrz&,MODERATE
+rogelio,fR&P,<function rank at 0x000001E62078AE60>
+paul152,VnhrTp%W,MODERATE
+grace.274,sbPmqaC_hx,MODERATE
+dulce535,IELyZR@shM,MODERATE
+jacquelyn,ESVJTQ,<function rank at 0x000001978F25AE60>
+cesar256,w55au43wu,<function rank at 0x000001978F25AE60>
+olivia,YOOMQZ,<function rank at 0x000001978F25AE60>
+glenn330,KZHY_-N?#RQC,<function rank at 0x000001978F25AE60>
+richard,DIURZO,<function rank at 0x000001978F25AE60>
+douglas,dHU+fgnrz&,MODERATE
+rogelio,fR&P,<function rank at 0x000001978F25AE60>
+paul152,VnhrTp%W,MODERATE
+grace.274,sbPmqaC_hx,MODERATE

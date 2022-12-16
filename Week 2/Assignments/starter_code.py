@@ -33,7 +33,29 @@ def rank(pwd: str) -> str:
     Returns: rank -> rank of password; POOR / MODERATE / STRONG
     '''
     ## Start code here
-    
+    pass_rank = [0,0,0,0]
+    Ualphabets = string.ascii_uppercase
+    Lalphabets = string.ascii_lowercase
+    chars =  "!+-=?#%*@&^$_"
+    digits = string.digits
+    for p in pwd:
+        if p in Ualphabets :
+            pass_rank[0] = 1
+        elif p in Lalphabets:
+            pass_rank[1] = 1
+        elif p in digits:
+             pass_rank[2] = 1
+        elif p in chars:
+             pass_rank[3] = 1
+    strength = sum(pass_rank)
+    if strength == 4 and len(pwd) > 10:
+        return "STRONG"
+
+    elif strength == 3 and (len(pwd) >= 8 and len(pwd) <= 10):
+        return "MODERATE"
+
+    elif strength < 3 and (len(pwd) < 8):
+        return "WEAK"
     ## End code here
     return rank
 
@@ -50,12 +72,21 @@ def option1():
     # 5. Close necessary files and print to terminal.
     
     ## START CODE HERE
-
+    usrpwds = 0
+    file = input("Enter the user_pwds file name")
+    with open(file, 'r') as contents ,open("Users.txt", 'a') as writefile:
+        for content in contents:
+                username, password = content.split(",")
+                password = password.rstrip()
+                strength = rank(password)
+                writefile.write(f"{username},{password},{strength}")
+                writefile.write("\n")
+                usrpwds+=1
     ## END CODE HERE
 
     print('#'*80)
     # [INFO] Be sure to change userpwds with the name of variable that you give to the list of passwords
-    print('[INFO] '+'Number of passwords checked:',str(len(usrpwds))) 
+    print('[INFO] '+'Number of passwords checked:',str(usrpwds))
     print('[INFO] '+'The given rankings can be found in Users-Pwds-Chked.txt')
     print('#'*80)
 
@@ -90,6 +121,8 @@ def option2():
         # While the required ranking is not met continue joining new Ualphabet, Lalphabet, chars and digits.
         
         ## START CODE HERE
+        while len(pwd) <=10:
+            pwd += random.choice(Ualphabets) + random.choice(Lalphabets) + random.choice(chars) + random.choice(digits)
 
         ## END CODE HERE
         return pwd
@@ -97,13 +130,28 @@ def option2():
     # Ask for username and check 20 character limits
 
     ## START CODE HERE
-
+    while True:
+        username = input("Enter the username you want to. It cannot  be more than length 20: ")
+        if len(username) <= 20:
+            break
     ## END CODE HERE
 
     # Generate the password using generate() and follow the steps as guided in the function header. 
-
     ## START CODE HERE
-
+    while True:
+        password = generate()
+        choice = input("Password has been generated. Do you like this information to be saved? ")
+        if choice == "Y":
+            with open("Final-Users-Pwds(10).txt", "a") as file:
+                file.write(f"{username},{password}")
+                file.write("\n")
+                break
+        if choice == "N":
+            choice = input("Would you like to generate a different password for this user?")
+            if choice == "Y":
+                pass
+            if choice == "N":
+                break
     ## END CODE HERE
 
 def main():
@@ -119,7 +167,14 @@ def main():
         # exit the loop by using the break command if the user selects 3 other wise use option1() and option 2() function 
 
         ## START CODE HERE
-
+        inpt = int(inp)
+        if inpt == 1:
+            option1()
+        if inpt == 2:
+            option2()
+        if inpt == 3:
+            print("This program is courtesy of: Saurav")
+            break
         ## END CODE HERE
 
 
