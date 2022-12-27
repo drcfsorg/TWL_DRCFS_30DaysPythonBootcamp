@@ -4,7 +4,7 @@ from newspaper import Article
 session = HTMLSession()
 
 #use session to get the page
-r = session.get('https://news.google.com/topics/CAAqBwgKMKeh0wEw-sE1?hl=en-US&gl=US&ceid=US%3Aen')
+r = session.get('https://news.google.com/home?hl=en-US&gl=US&ceid=US:en')
 
 #render the html, sleep=1 to give it a second to finish before moving on. scrolldown= how many times to page down on the browser, to get more results. 
 r.html.render(sleep=1, scrolldown=1,timeout=20)
@@ -15,10 +15,15 @@ newslist = []
 def main():
 #loop through each article to find the title and link. try and except as repeated articles from other sources have different h tags.
     for item in articles:
+        # print(item)
+        # break
         try:
-            newsitem = item.find('h3', first=True)
+            newsitem = item.find('h4', first=True)
+            # print(newsitem)
             title = newsitem.text
-            link = 'https://news.google.com'+list(newsitem.links)[0][1:]
+            # print(title)
+            link = list(item.absolute_links)[0]
+        
             article = Article(link)
             article.download()
             article.parse()
@@ -30,7 +35,7 @@ def main():
             )
             newslist.append(newsarticle)
         except Exception as e:
-            pass
+            print(item.find('h4', first=True))
     return newslist
 if __name__=='__main__':
     newslist = main()
